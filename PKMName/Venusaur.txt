@@ -5,7 +5,7 @@ Dex:
 3
 #
 Description:
-#
+The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.
 Type:
 Grass-Poison
 #
