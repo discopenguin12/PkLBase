@@ -1,0 +1,61 @@
+Name:
+Seel
+#
+Dex:
+86
+#
+Description:
+Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees.
+#
+Type:
+Water
+#
+HP:
+65
+#
+Attack:
+45
+#
+Defense:
+55
+#
+SPEC-Attack:
+45
+#
+SPEC-Defense:
+70
+#
+Speed:
+45
+#
+Moves:
+1 Headbutt
+30 Growl
+35 Aurora Beam
+40 Rest
+45 Take Down
+50 Ice Beam
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+16 Pay Day
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

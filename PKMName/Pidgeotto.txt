@@ -1,0 +1,58 @@
+Name:
+Pidgeotto
+#
+Dex:
+17
+#
+Description:
+This POKÈMON is full of vitality. It constantly flies around its large territory in search of prey.
+#
+Type:
+Normal-Flying
+#
+63
+#
+Attack:
+60
+#
+Defense:
+55
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+50
+#
+Speed:
+71
+#
+Moves:
+1 Gust
+1 Sand Attack
+5 Sand Attack
+12 Quick Attack
+21 Whirlwind
+31 Wing Attack
+40 Agility
+49 Mirror Move
+#
+HMS:
+1 Fly
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+43 Sky Attack
+44 Rest
+50 Substitute
+#

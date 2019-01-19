@@ -1,0 +1,57 @@
+Name:
+Weezing
+#
+Dex:
+110
+#
+Description:
+It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.
+#
+Type:
+Poison
+#
+HP:
+65
+#
+Attack:
+90
+#
+Defense:
+120
+#
+SPEC-Attack:
+85
+#
+SPEC-Defense:
+70
+#
+Speed:
+60
+#
+1 Sludge
+1 Smog
+1 Tackle
+32 Sludge
+39 Smokescreen
+43 Self-Destruct
+49 Haze
+53 Explosion
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+34 Bide
+36 Self-Destruct
+38 Fire Blast
+44 Rest
+47 Explosion
+50 Substitute
+#

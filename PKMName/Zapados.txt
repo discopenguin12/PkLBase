@@ -1,0 +1,60 @@
+Name:
+Zapados
+#
+Dex:
+145
+#
+Description:
+This legendary bird POKÈMON is said to appear when the sky turns dark and lightning showers down.
+#
+Type:
+Electric-Flying
+#
+HP:
+90
+#
+Attack:
+90
+#
+Defense:
+85
+#
+SPEC-Attack:
+125
+#
+SPEC-Defense:
+90
+#
+Speed:
+100
+#
+1 Drill Peck
+1 Thunder Shock
+51 Thunder
+55 Agility
+60 Light Screen
+#
+HMS:
+2 Fly
+5 Flash
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+43 Sky Attack
+44 Rest
+45 Thunder Wave
+50 Substitute
+#

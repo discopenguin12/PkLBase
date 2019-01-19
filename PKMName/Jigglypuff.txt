@@ -1,0 +1,76 @@
+Name:
+Jigglypuff
+#
+Dex:
+39
+#
+Description:
+Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.
+#
+Type:
+Normal
+#
+HP:
+115
+#
+Attack:
+45
+#
+Defense:
+20
+#
+SPEC-Attack:
+45
+#
+SPEC-Defense:
+25
+#
+Speed:
+20
+#
+Moves:
+1 Sing
+9 Pound
+14 Disable
+19 Defense Curl
+24 Double Slap
+29 Rest
+34 Body Slam
+39 Double-Edge
+#
+HMS:
+4 Strength
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

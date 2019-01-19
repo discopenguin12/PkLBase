@@ -1,0 +1,59 @@
+Name:
+Ekans
+#
+Dex:
+23
+#
+Description:
+The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.
+#
+Type:
+Poison
+#
+HP:
+35
+#
+Attack:
+60
+#
+Defense:
+44
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+54
+#
+Speed:
+55
+#
+Moves:
+1 Leer
+1 Wrap
+10 Poison Sting
+17 Bite
+24 Glare
+31 Screech
+38 Acid
+#
+HMS:
+4 Strength
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+20 Rage
+21 Mega Drain
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

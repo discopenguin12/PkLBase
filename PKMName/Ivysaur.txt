@@ -1,0 +1,61 @@
+Name:
+Ivysaur
+#
+Dex:
+2
+#
+Description:
+The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.
+#
+Type:
+Grass-Poison
+#
+HP:
+60
+#
+Attack:
+62
+#
+Defense:
+63
+#
+SPEC-Attack:
+80
+#
+SPEC-Defense:
+80
+#
+Speed:
+60
+#
+Moves:
+1 Growl
+1 Leech Seed
+1 Tackle
+7 Leech Seed
+13 Vine Whip
+22 Poison Powder
+30 Razor Leaf
+38 Growth
+46 Sleep Powder
+54 Solar Beam
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

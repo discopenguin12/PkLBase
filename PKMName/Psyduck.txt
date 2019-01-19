@@ -1,0 +1,67 @@
+Name:
+Psyduck
+#
+Dex:
+54
+#
+Description:
+Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.
+#
+Type:
+Water
+#
+HP:
+50
+#
+Attack:
+52
+#
+Defense:
+48
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+50
+#
+Speed:
+55
+#
+Moves:
+1 Scratch
+28 Tail Whip
+31 Disable
+36 Confusion
+43 Fury Swipes
+52 Hydro Pump
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+16 Pay Day
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

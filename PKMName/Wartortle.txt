@@ -1,0 +1,66 @@
+Name:
+Wartortle
+#
+Dex:
+8
+#
+Description:
+When tapped, this POKÈMON will pull in its head, but its tail will still stick out a little bit.
+#
+Type:
+Water
+#
+HP:
+59
+#
+Attack:
+63
+#
+Defense:
+80
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+80
+#
+Speed:
+58
+#
+Moves:
+1 Tackle
+1 Tail Whip
+1 Bubble
+15 Water Gun
+24 Bite
+31 Withdraw
+39 Skull Bash
+47 Hydro Pump
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+40 Skull Bash
+44 Rest
+50 Substitute
+#

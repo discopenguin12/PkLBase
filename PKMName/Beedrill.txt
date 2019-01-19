@@ -1,0 +1,59 @@
+Name:
+Beedrill
+#
+Dex:
+15
+#
+Description:
+It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
+#
+Type:
+Bug-Poison
+#
+HP:
+65
+#
+Attack:
+90
+#
+Defense:
+40
+#
+SPEC-Attack:
+45
+#
+SPEC-Defense:
+80
+#
+Speed:
+75
+#
+Moves:
+1 Furry Attack
+12 Furry Attack
+16 Focus Energy
+20 Twineedle
+25 Rage
+30 Pin Missle
+35 Agility
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+9 Take Down
+Double-Edge
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

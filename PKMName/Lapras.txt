@@ -1,0 +1,69 @@
+Name:
+Lapras
+#
+Dex:
+131
+#
+Description:
+A gentle soul that can read the minds of people. It can ferry people across the sea on its back.
+#
+Type:
+Water-Ice
+#
+HP:
+130
+#
+Attack:
+85
+#
+Defense:
+80
+#
+SPEC-Attack:
+85
+#
+SPEC-Defense:
+95
+#
+Speed:
+60
+#
+Moves:
+1 Growl
+1 Water Gun
+16 Sing
+20 Mist
+25 Body Slam
+31 Confuse Ray
+38 Ice Beam
+46 Hydro Pump
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+22 Solar Beam
+23 Dragon Rage
+25 Thunder
+29 Psychic
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+46 Psywave
+50 Substitute
+#

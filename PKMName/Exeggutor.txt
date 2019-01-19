@@ -1,0 +1,58 @@
+Name:
+Exeggutor
+#
+Dex:
+103
+#
+Description:
+Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes.
+#
+Type:
+Grass-Psychic
+#
+HP:
+95
+#
+Attack:
+95
+#
+Defense:
+85
+#
+SPEC-Attack:
+125
+#
+SPEC-Defense:
+75
+#
+Speed:
+55
+#
+Moves:
+1 Barrage
+1 Hypnosis
+28 Stomp
+#
+HMS:
+4 Strength
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+36 Self-Destruct
+37 Egg Bomb
+44 Rest
+46 Psywave
+47 Explosion
+50 Substitute
+#

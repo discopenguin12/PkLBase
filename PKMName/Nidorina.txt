@@ -1,0 +1,61 @@
+Name:
+Nidorina
+#
+Dex:
+30
+#
+Description:
+When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.
+#
+Type:
+Poison
+#
+HP:
+70
+#
+Attack:
+62
+#
+Defense:
+67
+#
+SPEC-Attack:
+55
+#
+SPEC-Defense:
+55
+#
+Speed:
+56
+#
+Moves:
+1 Growl
+1 Scratch
+1 Tackle
+8 Scratch
+12 Double Kick
+19 Poison Sting
+27 Tail Whip
+36 Bite
+46 Fury Swipes
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+14 Blizzard
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

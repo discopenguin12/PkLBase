@@ -1,0 +1,69 @@
+Name:
+Alakazam
+#
+Dex:
+65
+#
+Description:
+A POKÈMON that can memorize anything. It never forgets what it learns--that's why this POKÈMON is smart.
+#
+Type:
+Psychic
+#
+HP:
+55
+#
+Attack:
+50
+#
+Defense:
+45
+#
+SPEC-Attack:
+135
+#
+SPEC-Defense:
+95
+#
+Speed:
+120
+#
+Moves:
+1 Kinesis
+1 Teleport
+16 Confusion
+20 Disable
+27 Psybeam
+31 Recover
+38 Psychic
+42 Reflect
+#
+HMS:
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+40 SKull Bash
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

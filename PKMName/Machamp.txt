@@ -1,0 +1,68 @@
+Name:
+Machamp
+#
+Dex:
+68
+#
+Description:
+One arm alone can move mountains. Using all four arms, this POKÈMON fires off awesome punches.
+#
+Type:
+Fighting
+#
+HP:
+90
+#
+Attack:
+130
+#
+Defense:
+80
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+85
+#
+Speed:
+55
+#
+Moves:
+1 Karate Chop
+1 Leer
+1 Low Kick
+20 Low Kick
+25 Leer
+36 Focus Energy
+44 Seismic Toss
+52 Submission
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+38 Fire Blast
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

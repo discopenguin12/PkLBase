@@ -1,0 +1,64 @@
+Name:
+Sandslash
+#
+Dex:
+28
+#
+Description:
+It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.
+#
+Type:
+Ground
+#
+HP:
+75
+#
+Attack:
+100
+#
+Defense:
+110
+#
+SPEC-Attack:
+45
+#
+SPEC-Defense:
+55
+#
+Speed:
+65
+#
+Moves:
+1 Sand Attack
+1 Scratch
+10 Sand Attack
+17 Slash
+27 Poison Sting
+36 Swift
+47 Fury Swipes
+#
+HMS:
+1 Cut
+4 Strength
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+19 Seismic Toss
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+48 Rock Slide
+50 Substitute
+#

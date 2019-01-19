@@ -1,0 +1,62 @@
+Name:
+Magneton
+#
+Dex:
+82
+#
+Description:
+Generates strange radio signals. It raises the temperature by 3.6F degrees within 3,300 feet.
+#
+Type:
+Electric-Steel
+#
+HP:
+50
+#
+Attack:
+60
+#
+Defense:
+95
+#
+SPEC-Attack:
+120
+#
+SPEC-Defense:
+70
+#
+Speed:
+70
+#
+Moves:
+1 Sonic Boom
+1 Tackle
+1 Thunder Shock
+21 Sonic Boom
+25 Thunder Shock
+29 Supersonic
+38 Thunder Wave
+46 Swift
+54 Screech
+#
+HMS:
+5 Flash
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+44 Rest
+45 Thunder Wave
+50 Substitute
+#

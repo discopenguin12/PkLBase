@@ -1,0 +1,69 @@
+Name:
+Drowzee
+#
+Dex:
+96
+#
+Description:
+If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past.
+#
+Type:
+Psychic
+#
+HP:
+60
+#
+Attack:
+48
+#
+Defense:
+45
+#
+SPEC-Attack:
+43
+#
+SPEC-Defense:
+90
+#
+Speed:
+42
+#
+Moves:
+1 Hypnosis
+1 Pound
+12 Disable
+17 Confusion
+24 Headbutt
+29 Poison Gas
+32 Psychic
+37 Meditate
+#
+HMS:
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+40 Skull Bash
+42 Dream Eater
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

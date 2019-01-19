@@ -1,0 +1,64 @@
+Name:
+Persian
+#
+Dex:
+53
+#
+Description:
+The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.
+#
+Type:
+Normal
+#
+HP:
+65
+#
+Attack:
+70
+#
+Defense:
+60
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+65
+#
+Speed:
+115
+#
+Moves:
+1 Bite
+1 Growl
+1 Scratch
+1 Screech
+12 Bite
+17 Pay Day
+24 Screech
+37 Fury Swipes
+51 Slash
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+15 Hyper Beam
+16 Pay Day
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

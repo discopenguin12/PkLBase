@@ -1,0 +1,65 @@
+Name:
+Butterfree
+#
+Dex:
+12
+#
+Description:
+Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.
+#
+Type:
+Bug-Flying
+#
+HP:
+60
+#
+Attack:
+45
+#
+Defense:
+50
+#
+SPEC-Attack:
+90
+#
+SPEC-Defense:
+80
+#
+Speed:
+70
+#
+Moves:
+1 Confusion
+10 Confusion
+13 Poison Powder
+14 Stun Spore
+15 Sleep Powder
+18 Supersonic
+23 Whirlwind
+28 Gust
+34 Psybeam
+#
+HMS:
+5 Flash
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+22 Solar Beam
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+44 Rest
+46 Psywave
+50 Substitute
+#

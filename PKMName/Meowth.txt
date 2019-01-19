@@ -1,0 +1,59 @@
+Name:
+Meowth
+#
+Dex:
+52
+#
+Description:
+Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up.
+#
+Type:
+Normal
+#
+HP:
+40
+#
+Attack:
+45
+#
+Defense:
+35
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+40
+#
+Speed:
+90
+#
+Moves:
+1 Growl
+1 Scratch
+12 Bite
+17 Pay Day
+24 Screech
+33 Fury Swipes
+44 Slash
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+16 Pay Day
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+#

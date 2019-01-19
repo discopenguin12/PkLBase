@@ -1,0 +1,57 @@
+Name:
+Arcanine
+#
+Dex:
+59
+#
+Description:
+A legendary POKÈMON in China. Many people are charmed by its grace and beauty while running.
+#
+Type:
+Fire
+#
+HP:
+90
+#
+Attack:
+110
+#
+Defense:
+80
+#
+SPEC-Attack:
+100
+#
+SPEC-Defense:
+80
+#
+Speed:
+95
+#
+Moves:
+1 Ember
+1 Leer
+1 Roar
+1 Take Down
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+23 Dragon Rage
+28 Dig
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+44 Rest
+50 Substitute
+#

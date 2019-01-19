@@ -1,0 +1,73 @@
+Name:
+Wigglytuff
+#
+Dex:
+40
+#
+Description:
+Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.
+#
+Type:
+Normal
+#
+HP:
+140
+#
+Attack:
+70
+#
+Defense:
+45
+#
+SPEC-Attack:
+85
+#
+SPEC-Defense:
+50
+#
+Speed:
+45
+#
+Moves:
+1 Defense Curl
+1 Disable
+1 Double Slap
+1 Sing
+#
+HMS:
+4 Strength
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

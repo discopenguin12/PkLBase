@@ -1,0 +1,64 @@
+Name:
+Geodude
+#
+Dex:
+74
+#
+Description:
+Commonly found near mountain trails, etc. If you step on one by accident, it gets angry.
+#
+Type:
+Rock-Ground
+#
+HP:
+40
+#
+Attack:
+80
+#
+Defense:
+100
+#
+SPEC-Attack:
+30
+#
+SPEC-Defense:
+30
+#
+Speed:
+20
+#
+Moves:
+1 Tackle
+11 Defense Curl
+16 Rock Throw
+21 Self-Destruct
+26 Harden
+31 Earthquake
+36 Explosion
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+44 Rest
+47 Explosion
+48 Rock Slide
+50 Substitute
+#

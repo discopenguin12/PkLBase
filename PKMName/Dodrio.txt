@@ -1,0 +1,61 @@
+Name:
+Dodrio
+#
+Dex:
+85
+#
+Description:
+One of DODUO's 2 heads splits to form a unique species. It runs close to 40 MPH in prairies.
+#
+Type:
+Normal-Flying
+#
+HP:
+60
+#
+Attack:
+110
+#
+Defense:
+70
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+60
+#
+Speed:
+110
+#
+Moves:
+1 Fury Attack
+1 Growl
+1 Peck
+20 Growl
+24 Fury Attack
+30 Drill Peck
+39 Rage
+45 Tri Attack
+51 Agility
+#
+HMS:
+2 Fly
+#
+TMS:
+4 Whirlwind
+6 Toxic
+8 Body Slam
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+43 Sky Attack
+44 Rest
+49 Tri Attack
+50 Substitute
+#

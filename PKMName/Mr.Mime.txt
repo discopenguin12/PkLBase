@@ -1,0 +1,67 @@
+Name:
+Mr.Mime
+#
+Dex:
+122
+#
+Description:
+Always practices its pantomime act. It makes enemies believe something exists that really doesn't.
+#
+Type:
+Psychic
+#
+HP:
+40
+#
+Attack:
+45
+#
+Defense:
+65
+#
+SPEC-Attack:
+100
+#
+SPEC-Defense:
+120
+#
+Speed:
+90
+#
+Moves:
+1 Barrier
+1 Confusion
+15 Confusion
+23 Light Screen
+31 Double Slap
+39 Meditate
+47 Substitute
+#
+HMS:
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+40 Skull Bash
+46 Psywave
+50 Substitute
+#

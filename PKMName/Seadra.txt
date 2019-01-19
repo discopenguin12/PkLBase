@@ -1,0 +1,60 @@
+Name:
+Seadra
+#
+Dex:
+117
+#
+Description:
+Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.
+#
+Type:
+Water
+#
+HP:
+55
+#
+Attack:
+65
+#
+Defense:
+95
+#
+SPEC-Attack:
+95
+#
+SPEC-Defense:
+45
+#
+Speed:
+85
+#
+Moves:
+1 Bubble
+1 Smokscreen
+19 Smokescreen
+24 Leer
+30 Water Gun
+41 Agility
+52 Hydro Pump
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

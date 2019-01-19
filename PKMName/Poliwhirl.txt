@@ -1,0 +1,70 @@
+Name:
+Poliwhirl
+#
+Dex:
+62
+#
+Description:
+Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.
+#
+Type:
+Water
+#
+HP:
+65
+#
+Attack:
+65
+#
+Defense:
+65
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+50
+#
+Speed:
+90
+#
+Moves:
+1 Bubble
+1 Hypnosis
+1 Water Gun
+16 Hypnosis
+19 Water Gun
+26 Double Slap
+33 Body Slam
+41 Amnesia
+49 Hydro Pump
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+17 Submission
+20 Rage
+26 Earthquake
+27 Fissure
+29 Psychic
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+40 Skull Bash
+44 Rest
+46 Psywave
+50 Substitute
+#

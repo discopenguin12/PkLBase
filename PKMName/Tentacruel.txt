@@ -1,0 +1,65 @@
+Name:
+Tentacruel
+#
+Dex:
+73
+#
+Description:
+Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.
+#
+Type:
+Water-Poison
+#
+HP:
+80
+#
+Attack:
+70
+#
+Defense:
+65
+#
+SPEC-Attack:
+80
+#
+SPEC-Defense:
+120
+#
+Speed:
+100
+#
+Moves:
+1 Acid
+1 Wrap
+1 Supersonic
+7 SuperSonic
+13 Wrap
+22 Water Gun
+27 Constrict
+35 Barrier
+43 Screech
+50 Hydro Pump
+#
+HMS:
+1 Cut
+3 Surf
+#
+TMS:
+3 Swords Dance
+6 Toxic
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+31 Mimic
+32 Double Team
+33 Reflect
+40 Skull Bash
+44 Rest
+50 Substitute
+#

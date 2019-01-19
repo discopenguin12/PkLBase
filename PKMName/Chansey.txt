@@ -1,0 +1,81 @@
+Name:
+Chansey
+#
+Dex:
+113
+#
+Description:
+A gentle and kindhearted POKÈMON that shares its nutritious eggs if it sees an injured POKÈMON.
+#
+Type:
+Normal
+#
+HP:
+250
+#
+Attack:
+5
+#
+Defense:
+5
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+105
+#
+Speed:
+50
+#
+Moves:
+1 Pound
+1 Tail Whip
+12 Double Slap
+24 Sing
+30 Growl
+28 Minimize
+4 Defense Curl
+48 Light Screen
+54 Double-Edge
+#
+HMS:
+4 Strength
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+29 Pyschic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+37 Egg Bomb
+38 Fire Blast
+40 Skull Bash
+41 Soft-Boiled
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

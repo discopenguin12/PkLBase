@@ -1,0 +1,59 @@
+Name:
+Paras
+#
+Dex:
+46
+#
+Description:
+Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.
+#
+Type:
+Bug-Grass
+#
+HP:
+35
+#
+Attack:
+70
+#
+Defense:
+55
+#
+SPEC-Attack:
+45
+#
+SPEC-Defense:
+55
+#
+Speed:
+25
+#
+Moves:
+1 Scratch
+13 Stun Spore
+20 Leech Life
+27 Spore
+34 Slash
+41 Growth
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+28 Dig
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

@@ -1,0 +1,56 @@
+Name:
+Spearow
+#
+Dex:
+21
+#
+Description:
+#
+Type:
+Normal-Flying
+#
+HP:
+40
+#
+Attack:
+60
+#
+Defense:
+30
+#
+SPEC-Attack:
+31
+#
+SPEC-Defense:
+31
+#
+Speed:
+70
+#
+Moves:
+1 Growl
+1 Peck
+9 Leer
+15 Fury Attack
+22 Mirror Move
+29 Drill Peck
+36 Agility
+#
+HMS:
+2 Fly
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+43 Sky Attack
+44 Rest
+50 Substitute
+#

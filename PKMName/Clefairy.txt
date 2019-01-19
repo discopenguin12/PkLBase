@@ -1,0 +1,77 @@
+Name:
+Clefairy
+#
+Dex:
+35
+#
+Description:
+Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.
+#
+Type:
+Normal
+#
+HP:
+70
+#
+Attack:
+45
+#
+Defense:
+48
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+65
+#
+Speed:
+35
+#
+Moves:
+1 Growl
+1 Pound
+13 Sing
+18 Double Slap
+24 Minimize
+31 Metronome
+39 Defense Curl
+48 Light Screen
+#
+HMS:
+4 Strength
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+29 Pyschic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+38 Fire Blast
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitutes
+#

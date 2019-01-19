@@ -1,0 +1,64 @@
+Name:
+Dewgong
+#
+Dex:
+87
+#
+Description:
+Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters.
+#
+Type:
+Water-Ice
+#
+HP:
+90
+#
+Attack:
+70
+#
+Defense:
+80
+#
+SPEC-Attack:
+70
+#
+SPEC-Defense:
+95
+#
+Speed:
+70
+#
+Moves:
+1 Aurora Beam
+1 Growl
+1 Headbutt
+30 Growl
+35 Aurora Beam
+44 Rest
+50 Take Down
+56 Ice Beam
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Pay Day
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

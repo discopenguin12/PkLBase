@@ -1,0 +1,96 @@
+Project Name: PokeLBase
+
+Author: Danny Lopez
+Created: July 2018
+
+
+Introduction:
+
+This project was created in the language of Java.
+The IDE Eclipse Java Photon and was uploaded to Github.
+This library uses the libraries JavaFX for making the User Interface, and
+uses file Java IO library to read file inputs.
+
+About:
+This project is to imitate a Pokedex. A Pokedex is a dictionary about pokemon
+from Nintendo and The Pokemon Company franchise "Pokemon". This program lists
+the first 151 pokemon from the games Pokemon Blue, Red, and Yellow. It lists 
+basic statistics for each pokemon, what moves they can learn, and a small description.
+
+Version History:
+
+::v0.1::
+
+-Project created and named "PokemonDatabase"
+-Created "PokedexProject.txt" as documentation for project.
+-Created PkGui.java and DexGenerator.java class. This files
+will be used to create an array list, and for the user to run program.
+-Created Folder PKMName that contained 151 text files with basic
+information about each pokemon (stats, name, description, etc.)
+-Created text file PokeList.txt that is a list that contains the names
+of all 151 pokemon
+
+::v0.2::
+
+-Created a terminal version of the pokedex that could only list
+info for 3 pokemon. Only info able to display was pokemon name, number, and description.
+-The user can reprint list or exit program.
+
+::v0.3::
+
+-Program greets user to the program, and provides a list of commands.
+-User can now enter name and ask for help.
+-Updated pokemon list to now list 12 pokemon.
+
+::v0.4::
+
+-Updated more of the files in PKMName folder, and updated 50 pokemon text files.
+-Statistics, moveset, and more can be displayed to the user.
+
+::v0.5::
+
+-Terminal program was dropped in favor of UI implementation of program.
+	UI was created using the JavaFX library.
+-Folder "Image" was created that contained images of all 151 pokemon.
+-Updated information for 25 pokemon text files.
+-UI can display image, name, moves, and stats for 10 pokemon
+
+::v0.6::
+-Menubar was created that has "File" and "Help" tab. No functionality yet.
+-Stats such as HP, Attack, Defense, etc now are represented with a progress bar alongside integers.
+-The other pokemon text files have been fully updated and can now be represented in the UI.
+-Changed layout of the UI to put Stats on the lower left, and moves on the right side.
+-Debug info now appears at the bottom of the UI.
+-Added Image "Question.png" as place holder image.
+-Changed Project name to "PokeDBase"
+
+::v1.0::
+-Updated Menubar to add functionalities.
+-Created "AlertBox.java" file
+-Edited part of the User Interface
+  Tweaked size of progress bar
+  Changed border size for the cells
+  Edited text area size
+  Edited size of enter button
+
+::v1.1::
+-Edited mistakes of pokemon data
+
+
+::v1.2::
+-Created new file called "PokeLBase_Planner.txt"
+-Copied info from PokedexProject.txt to PokeLBase_Planner.txt
+-Deleted PokedexProject.txt file
+-Edited PokeLBase_Planner.txt
+-Renamed project to "PokemonLBase"
+
+::v1.3::
+-Moved project to a eclipse project
+-Copied files to eclipse project, and changed PkGui.java to Main.java
+-Edited Main.java files
+
+::v1.4::
+-Adding project to Git.
+
+
+

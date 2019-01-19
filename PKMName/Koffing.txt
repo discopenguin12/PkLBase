@@ -1,0 +1,56 @@
+Name:
+Koffing
+#
+Dex:
+109
+#
+Description:
+In hot places, its internal gases could expand and explode without any warning. Be very careful!
+#
+Type:
+Poison
+#
+HP:
+40
+#
+Attack:
+65
+#
+Defense:
+95
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+45
+#
+Speed:
+35
+#
+Moves:
+1 Smog
+1 Tackle
+32 Sludge
+37 Smokescreen
+40 Self-Destruct
+45 Haze
+48 Explosion
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+34 Bide
+36 Self-Destruct
+38 Fire Blast
+44 Rest
+47 Explosion
+50 Substitute
+#

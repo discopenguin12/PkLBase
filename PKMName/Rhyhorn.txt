@@ -1,0 +1,66 @@
+Name:
+Rhyhorn
+#
+Dex:
+111
+#
+Description:
+A POKÈMON with a one-track mind. Once it charges, it won't stop running until it falls asleep.
+#
+Type:
+Ground- Rock
+#
+HP:
+80
+#
+Attack:
+85
+#
+Defense:
+95
+#
+SPEC-Attack:
+30
+#
+SPEC-Defense:
+30
+#
+Speed:
+25
+#
+Moves:
+1 Fury Attack
+1 Horn Attack
+1 Stomp
+1 Tail Whip
+30 Stomp
+35 Tail Whip
+40 Fury Attack
+45 Horn Drill
+50 Leer
+55 Take Down
+#
+HMS:
+4 Strength
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double
+34 Bide
+38 Fire Blast
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

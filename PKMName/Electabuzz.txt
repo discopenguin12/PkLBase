@@ -1,0 +1,71 @@
+Name:
+Electabuzz
+#
+Dex:
+125
+#
+Description:
+If a major power outage occurs, it is certain that this POKÈMON has eaten electricity at a power plant.
+#
+Type:
+Electric
+#
+HP:
+65
+#
+Attack:
+83
+#
+Defense:
+57
+#
+SPEC-Attack:
+95
+#
+SPEC-Defense:
+85
+#
+Speed:
+105
+#
+Moves:
+1 Leer
+1 Quick Attack
+34 Thundershock
+37 Screech
+42 Thunder Punch
+49 Light Screen
+54 Thunder
+#
+HMS:
+4 Strength
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+46 Psywave
+50 Substitute
+#

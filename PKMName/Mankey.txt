@@ -1,0 +1,68 @@
+Name:
+Mankey
+#
+Dex:
+56
+#
+Description:
+An agile POKÈMON that lives in trees. It angers easily and will not hesitate to attack anything.
+#
+Type:
+Fighting
+#
+HP:
+40
+#
+Attack:
+80
+#
+Defense:
+35
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+45
+#
+Speed:
+70
+#
+Moves:
+1 Leer
+1 Scratch
+15 Karate Chop
+21 Fury Swipes
+27 Focus Energy
+33 Seismict Toss
+39 Trash
+45 Screech
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+16 Pay Day
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+39 Swift
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

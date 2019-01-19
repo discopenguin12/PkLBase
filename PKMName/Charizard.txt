@@ -1,0 +1,74 @@
+Name:
+Charizard
+#
+Dex:
+6
+#
+Description:
+When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.
+#
+Type:
+Fire-Flying
+#
+HP:
+78
+#
+Attack:
+84
+#
+Defense:
+78
+#
+SPEC-Attack:
+109
+#
+SPEC-Defense:
+85
+#
+Speed:
+100
+#
+Moves:
+1 Ember
+1 Growl
+1 Leer
+1 Scratch
+9 Ember
+15 Leer
+24 Rage
+36 Slash
+46 Flamethrower
+55 Fire Spin
+#
+HMS:
+1 Cut
+2 Fly
+4 Strength
+#
+TMS:
+1 Mega Punch
+3 Swords Dance
+5 Mega kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+23 Dragon Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

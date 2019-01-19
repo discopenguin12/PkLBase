@@ -1,0 +1,68 @@
+Name:
+Charmander
+#
+Dex:
+4
+#
+Description:
+The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.
+#
+Type:
+Fire
+#
+HP:
+39
+#
+Attack:
+52
+#
+Defense:
+43
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+50
+#
+Speed:
+65
+#
+Moves:
+1 Growl
+1 Scratch
+9 Ember
+15 Leer
+22 Rage
+30 Slash
+38 Flamethrower
+46 Fire Spin
+#
+HMS:
+1 Cut
+4 Strength
+#
+TMS:
+1 Mega Punch
+3 Swords Dance
+5 Mega kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+23 Dragon Rage
+28 Dig
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

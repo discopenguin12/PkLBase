@@ -1,0 +1,61 @@
+Name:
+Poliwag
+#
+Dex:
+60
+#
+Description:
+The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.
+#
+Type:
+Water
+#
+HP:
+40
+#
+Attack:
+50
+#
+Defense:
+40
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+40
+#
+Speed:
+90
+#
+Moves:
+1 Bubble
+16 Hypnosis
+19 Water Gun
+25 Double Slap
+31 Body Slam
+38 Amnesia
+45 Hydro Pump
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+29 Psychic
+31 Mimic
+32 Double Team
+34 Bide
+40 Skull Bash
+44 Rest
+46 Psywave
+50 Substitute
+#

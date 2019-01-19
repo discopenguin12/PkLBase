@@ -1,0 +1,61 @@
+Name:
+Onix
+#
+Dex:
+95
+#
+Description:
+Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.
+#
+Type:
+Rock-Ground
+#
+HP:
+35
+#
+Attack:
+45
+#
+Defense:
+160
+#
+SPEC-Attack:
+30
+#
+SPEC-Defense:
+45
+#
+Speed:
+70
+#
+Moves:
+1 Screech
+1 Tackle
+15 Bind
+19 Rock Throw
+25 Rage
+33 Slam
+43 Harden
+#
+HMS:
+4 Strength
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+36 Self-Destruct
+40 Skull Bash
+44 Rest
+47 Explosion
+48 Rock Slide
+50 Substitute
+#

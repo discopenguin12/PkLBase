@@ -1,0 +1,69 @@
+Name:
+Pikachu
+#
+Dex:
+25
+#
+Description:
+It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.
+#
+Type:
+Electric
+#
+HP:
+35
+#
+Attack:
+55
+#
+Defense:
+40
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+50
+#
+Speed:
+90
+#
+Moves:
+1 Growl
+1 Thunder Shock
+6 Tail Whip
+8 Thunder Wave
+11 Quick Attack
+15 Double Team
+20 Slam
+26 Thunderbolt
+33 Agility
+41 Thunder
+50 Light Screen
+#
+HMS:
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+16 Pay Day
+17 Submission
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+50 Substitute
+#

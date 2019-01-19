@@ -1,0 +1,65 @@
+Name:
+Starmie
+#
+Dex:
+121
+#
+Description:
+The center section is named the core. People think it is communicating when it glows in 7 colors.
+#
+Type:
+Water-Psychic
+#
+HP:
+60
+#
+Attack:
+75
+#
+Defense:
+85
+#
+SPEC-Attack:
+100
+#
+SPEC-Defense:
+85
+#
+Speed:
+115
+#
+Moves:
+1 Harden
+1 Tackle
+1 Water Gun
+#
+HMS:
+3 Surf
+5 Flash
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

@@ -1,0 +1,61 @@
+Name:
+Articuno
+#
+Dex:
+144
+#
+Description:
+A legendary bird POKÈMON. It freezes water that is contained in winter air and makes it snow.
+#
+Type:
+Ice-Flying
+#
+HP:
+90
+#
+Attack:
+85
+#
+Defense:
+100
+#
+SPEC-Attack:
+95
+#
+SPEC-Defense:
+125
+#
+Speed:
+85
+#
+Moves:
+1 Ice Beam
+1 Peck
+51 Blizzard
+55 Agility
+60 Mist
+#
+HMS:
+2 Fly
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+43 Sky Attack
+44 Rest
+50 Substitute
+#

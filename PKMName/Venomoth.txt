@@ -1,0 +1,64 @@
+Name:
+Venomoth
+#
+Dex:
+49
+#
+Description:
+The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.
+#
+Type:
+Bug-Poison
+#
+HP:
+70
+#
+Attack:
+65
+#
+Defense:
+60
+#
+SPEC-Attack:
+90
+#
+SPEC-Defense:
+75
+#
+Speed:
+90
+#
+Moves:
+1 Confusion
+1 Disable
+1 Supersonic
+1 Tackle
+22 Poison Powder
+27 Leech Life
+30 Stun Spore
+38 Psybeam
+43 Sleep Powder
+50 Psychic
+#
+HMS:
+5 Flash
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+22 Solar Beam
+29 Psychic
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+46 Psywave
+50 Substitute
+#

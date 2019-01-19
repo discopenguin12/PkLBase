@@ -1,0 +1,69 @@
+Name:
+Charmeleon
+#
+Dex:
+5
+#
+Description:
+Tough fights could excite this POKÈMON. When excited, it may blow out bluish-white flames.
+#
+Type:
+Fire
+#
+HP:
+58
+#
+Attack:
+64
+#
+Defense:
+58
+#
+SPEC-Attack:
+80
+#
+SPEC-Defense:
+65
+#
+Speed:
+80
+#
+Moves:
+1 Ember
+1 Growl
+1 Scratch
+9 Ember
+15 Leer
+24 Rage
+33 Slash
+42 Flamethrower
+56 Fire Spin
+#
+HMS:
+1 Cut
+4 Strength
+#
+TMS:
+1 Mega Punch
+3 Swords Dance
+5 Mega kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+23 Dragon Rage
+28 Dig
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

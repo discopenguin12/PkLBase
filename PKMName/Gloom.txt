@@ -1,0 +1,59 @@
+Name:
+Gloom
+#
+Dex:
+44
+#
+Description:
+Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose-bending stink.
+#
+Type:
+Grass-Poison
+#
+HP:
+60
+#
+Attack:
+65
+#
+Defense:
+70
+#
+SPEC-Attack:
+70
+#
+SPEC-Defense:
+75
+#
+Speed:
+40
+#
+Moves:
+1 Absorb
+1 Poison Powder
+1 Stun Spore
+15 Poison Powder
+17 Stun Spore
+19 Sleep Powder
+28 Acid
+38 Petal Dance
+52 Solar Beam
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

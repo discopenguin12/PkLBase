@@ -1,0 +1,58 @@
+Name:
+Fearow
+#
+Dex:
+22
+#
+Description:
+#
+Type:
+Normal-Flying
+#
+HP:
+65
+#
+Attack:
+90
+#
+Defense:
+65
+#
+SPEC-Attack:
+61
+#
+SPEC-Defense:
+61
+#
+Speed:
+100
+#
+Moves:
+1 Growl
+1 Leer
+1 Peck
+9 Leer
+15 Fury Attack
+25 Mirror Move
+34 Drill Peck
+43 Agility
+#
+HMS:
+2 Fly
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+43 Sky Attack
+44 Rest
+50 Substitute
+#

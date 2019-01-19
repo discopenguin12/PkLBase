@@ -1,0 +1,61 @@
+Name:
+Tentacool
+#
+Dex:
+72
+#
+Description:
+It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.
+#
+Type:
+Water-Poison
+#
+HP:
+40
+#
+Attack:
+40
+#
+Defense:
+35
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+100
+#
+Speed:
+70
+#
+Moves:
+1 Acid
+7 SuperSonic
+13 Wrap
+22 Water Gun
+27 Constrict
+33 Barrier
+40 Screech
+48 Hydro Pump
+#
+HMS:
+1 Cut
+3 Surf
+#
+TMS:
+3 Swords Dance
+6 Toxic
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+21 Mega Drain
+31 Mimic
+32 Double Team
+33 Reflect
+40 Skull Bash
+44 Rest
+50 Substitute
+#

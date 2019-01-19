@@ -1,0 +1,58 @@
+Name:
+Kabuto
+#
+Dex:
+140
+#
+Description:
+A POKÈMON that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.
+#
+Type:
+Rock-Water
+#
+HP:
+30
+#
+Attack:
+80
+#
+Defense:
+90
+#
+SPEC-Attack:
+55
+#
+SPEC-Defense:
+45
+#
+Speed:
+55
+#
+Moves:
+1 Harden
+1 Scratch
+34 Absorb
+39 Slash
+44 Leer
+49 Hydro Pump
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

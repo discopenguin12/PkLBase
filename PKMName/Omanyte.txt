@@ -1,0 +1,58 @@
+Name:
+Omanyte
+#
+Dex:
+138
+#
+Description:
+An ancient POKÈMON that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.
+#
+Type:
+Rock-Water
+#
+HP:
+35
+#
+Attack:
+40
+#
+Defense:
+100
+#
+SPEC-Attack:
+90
+#
+SPEC-Defense:
+55
+#
+Speed:
+35
+#
+Moves:
+1 Water Gun
+1 Withdraw
+34 Horn Attack
+39 Leer
+46 Spike Cannon
+53 Hydro Pump
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

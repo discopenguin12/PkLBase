@@ -1,0 +1,60 @@
+Name:
+Farfetch'd
+#
+Dex:
+83
+#
+Description:
+Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing.
+#
+Type:
+Normal-Flying
+#
+HP:
+52
+#
+Attack:
+90
+#
+Defense:
+55
+#
+SPEC-Attack:
+58
+#
+SPEC-Defense:
+62
+#
+Speed:
+60
+#
+Moves:
+1 Peck
+1 Sand Attack
+15 Fury Attack
+23 Swords Dance
+31 Agility
+39 Slash
+#
+HMS:
+1 Cut
+2 Fly
+#
+TMS:
+2 Razor Wind
+3 Swords Dance
+4 Whirlwind
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double Edge
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

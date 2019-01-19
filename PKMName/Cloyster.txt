@@ -1,0 +1,62 @@
+Name:
+Cloyster
+#
+Dex:
+91
+#
+Description:
+For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.
+#
+Type:
+Water-Ice
+#
+HP:
+50
+#
+Attack:
+95
+#
+Defense:
+180
+#
+SPEC-Attack:
+85
+#
+SPEC-Defense:
+45
+#
+Speed:
+70
+#
+Moves:
+1 Aurora Beam
+1 Clamp
+1 Tackle
+1 Withdraw
+50 Spike Cannon
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+36 Self-Destruct
+39 Swift
+44 Rest
+47 Explosion
+49 Tri Attack
+50 Substitute
+#

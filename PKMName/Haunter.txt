@@ -1,0 +1,57 @@
+Name:
+Haunter
+#
+Dex:
+93
+#
+Description:
+By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.
+#
+Type:
+Ghost-Poison
+#
+HP:
+45
+#
+Attack:
+50
+#
+Defense:
+45
+#
+SPEC-Attack:
+115
+#
+SPEC-Defense:
+55
+#
+Speed:
+95
+#
+Moves:
+1 Confuse
+1 Lick
+1 Night Shade
+29 Hypnosis
+38 Dream Eater
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+20 Rage
+21 Mega Drain
+24 Thunderbolt
+25 Thunder
+29 Psychic
+31 Mimic
+32 Double Team
+34 Bide
+36 Self-Destruct
+42 Dream Eater
+44 Rest
+46 Psywave
+47 Explosion
+50 Substitute
+#

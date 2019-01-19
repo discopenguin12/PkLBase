@@ -1,0 +1,40 @@
+Name:
+Metapod
+#
+Dex:
+11
+#
+Description:
+Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.
+#
+Type:
+Bug
+#
+HP:
+50
+#
+Attack:
+20
+#
+Defense:
+55
+#
+SPEC-Attack:
+25
+#
+SPEC-Defense:
+25
+#
+Speed:
+30
+#
+Moves:
+1 Harden
+7 Harden
+#
+HMS:
+-
+#
+TMS:
+-
+#

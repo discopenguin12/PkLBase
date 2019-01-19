@@ -1,0 +1,66 @@
+Name:
+Jolteon
+#
+Dex:
+135
+#
+Description:
+A sensitive POKÈMON that easily becomes sad or angry. Every time its mood changes, it charges power.
+#
+Type:
+Electric
+#
+HP:
+65
+#
+Attack:
+65
+#
+Defense:
+60
+#
+SPEC-Attack:
+110
+#
+SPEC-Defense:
+95
+#
+Speed:
+130
+#
+Moves:
+1 Tackle
+1 Tail Whip
+1 Thunder Shock
+1 Quick Attack
+8 Sand Attack
+16 Thunder Shock
+23 Quick Attack
+30 Double Kick
+36 Pin Missle
+42 Thunder Wave
+47 Agility
+52 Thunder
+#
+HMS:
+5 Flash
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+50 Substitute
+#

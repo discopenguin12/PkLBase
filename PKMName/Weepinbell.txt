@@ -1,0 +1,60 @@
+Name:
+Weepinbell
+#
+Dex:
+70
+#
+Description:
+When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.
+#
+Type:
+Grass-Poison
+#
+HP:
+65
+#
+Attack:
+90
+#
+Defense:
+50
+#
+SPEC-Attack:
+85
+#
+SPEC-Defense:
+45
+#
+Speed:
+55
+#
+Moves:
+1 Growth
+1 Vine Whip
+1 Wrap
+13 Wrap
+15 Poison Powder
+18 Sleep Powder
+23 Stun Spore
+29 Acid
+38 Razor Leaf
+49 Slam
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

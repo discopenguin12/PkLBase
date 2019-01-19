@@ -1,0 +1,72 @@
+Name:
+Hypno
+#
+Dex:
+97
+#
+Description:
+Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
+#
+Type:
+Psychic
+#
+HP:
+85
+#
+Attack:
+73
+#
+Defense:
+70
+#
+SPEC-Attack:
+73
+#
+SPEC-Defense:
+115
+#
+Speed:
+67
+#
+Moves:
+1 Confusion
+1 Disable
+1 Hypnosis
+1 Pound
+12 Disable
+17 Confusion
+24 Headbutt
+33 Poison Gas
+37 Psychic
+43 Meditate
+#
+HMS:
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+40 Skull Bash
+42 Dream Eater
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

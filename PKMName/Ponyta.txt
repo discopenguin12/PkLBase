@@ -1,0 +1,59 @@
+Name:
+Ponyta
+#
+Dex:
+77
+#
+Description:
+Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.
+#
+Type:
+Fire
+#
+HP:
+50
+#
+Attack:
+85
+#
+Defense:
+55
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+65
+#
+Speed:
+90
+#
+Moves:
+1 Ember
+30 Tail Whip
+32 Stomp
+35 Growl
+39 Fire Spin
+43 Take Down
+48 Agility
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

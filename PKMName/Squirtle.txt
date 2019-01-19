@@ -1,0 +1,66 @@
+Name:
+Squirtle
+#
+Dex:
+7
+#
+Description:
+Shoots water at prey while in the water. Withdraws into its shell when in danger.
+#
+Type:
+Water
+#
+HP:
+44
+#
+Attack:
+48
+#
+Defense:
+65
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+64
+#
+Speed:
+43
+#
+Moves:
+1 Tackle
+1 Tail Whip
+8 Bubble
+15 Water Gun
+22 Bite
+28 Withdraw
+35 Skull Bash
+42 Hydro Pump
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+40 Skull Bash
+44 Rest
+50 Substitute
+#

@@ -1,0 +1,57 @@
+Name:
+Gastly
+#
+Dex:
+92
+#
+Description:
+Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.
+#
+Type:
+Ghost-Poison
+#
+HP:
+30
+#
+Attack:
+35
+#
+Defense:
+30
+#
+SPEC-Attack:
+100
+#
+SPEC-Defense:
+35
+#
+Speed:
+80
+#
+Moves:
+1 Confuse
+1 Lick
+1 Night Shade
+27 Hypnosis
+35 Dream Eater
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+20 Rage
+21 Mega Drain
+24 Thunderbolt
+25 Thunder
+29 Psychic
+31 Mimic
+32 Double Team
+34 Bide
+36 Self-Destruct
+42 Dream Eater
+44 Rest
+46 Psywave
+47 Explosion
+50 Substitute
+#

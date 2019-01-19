@@ -1,0 +1,56 @@
+Name:
+Ninetales
+#
+Dex:
+38
+#
+Description:
+According to an enduring legend, 9 noble saints were united and reincarnated as this POKÈMON.
+#
+Type:
+Fire
+#
+HP:
+73
+#
+Attack:
+76
+#
+Defense:
+75
+#
+SPEC-Attack:
+81
+#
+SPEC-Defense:
+100
+#
+Speed:
+100
+#
+Moves:
+1 Ember
+1 Quick Attack
+1 Roar
+1 Tail Whip
+#
+HMS:
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+28 Dig
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

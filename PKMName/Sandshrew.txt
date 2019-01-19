@@ -1,0 +1,62 @@
+Name:
+Sandshrew
+#
+Dex:
+27
+#
+Description:'
+Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.
+#
+Type:
+Ground
+#
+HP:
+50
+#
+Attack:
+75
+#
+Defense:
+85
+#
+SPEC-Attack:
+20
+#
+SPEC-Defense:
+30
+#
+Speed:
+40
+#
+Moves:
+1 Scratch
+10 Sand Attack
+17 Slash
+24 Poison Sting
+31 Swift
+38 Fury Swipes
+#
+HMS:
+1 Cut
+4 Strength
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+19 Seismic Toss
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+48 Rock Slide
+50 Substitute
+#

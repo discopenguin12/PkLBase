@@ -1,0 +1,62 @@
+Name:
+Raichu
+#
+Dex:
+26
+#
+Description:
+When electricity builds up inside its body, it becomes feisty. It also glows in the dark.
+#
+Type:
+Electric
+#
+HP:
+60
+#
+Attack:
+90
+#
+Defense:
+55
+#
+SPEC-Attack:
+90
+#
+SPEC-Defense:
+80
+#
+Speed:
+110
+#
+Moves:
+1 Growl
+1 Thunder Shock
+1 Thunder Wave
+#
+HMS:
+5 Flash
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+16 Pay Day
+17 Submission
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+50 Substitute
+#

@@ -1,0 +1,70 @@
+Name:
+Golduck
+#
+Dex:
+55
+#
+Description:
+Its slim and long limbs end in broad flippers. They are used for swimming gracefully in lakes.
+#
+Type:
+Water
+#
+HP:
+80
+#
+Attack:
+82
+#
+Defense:
+78
+#
+SPEC-Attack:
+95
+#
+SPEC-Defense:
+80
+#
+Speed:
+85
+#
+Moves:
+1 Disable
+1 Scratch
+1 Tail Whip
+28 Tail Whip
+31 Disable
+39 Confusion
+48 Fury Swipes
+59 Hydro Pump
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Pay Day
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

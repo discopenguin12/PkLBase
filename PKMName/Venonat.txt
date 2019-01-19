@@ -1,0 +1,61 @@
+Name:
+Venonat
+#
+Dex:
+48
+#
+Description:
+Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.
+#
+Type:
+Bug-Poison
+#
+HP:
+60
+#
+Attack:
+55
+#
+Defense:
+50
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+55
+#
+Speed:
+45
+#
+Moves:
+1 Disable
+1 Tackle
+11 Supersonic
+19 Confusion
+22 Poison Powder
+27 Leech Life
+30 Stun Spore
+35 Psybeam
+38 Sleep Powder
+43 Psychic
+#
+HMS:
+5 Flash
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+29 Psychic
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+46 Psywave
+50 Substitute
+#

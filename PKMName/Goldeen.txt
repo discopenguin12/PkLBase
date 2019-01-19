@@ -1,0 +1,61 @@
+Name:
+Goldeen
+#
+Dex:
+118
+#
+Description:
+When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.
+#
+Type:
+Water
+#
+HP:
+45
+#
+Attack:
+67
+#
+Defense:
+60
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+50
+#
+Speed:
+63
+#
+Moves:
+1 Peck
+1 Tail Whip
+19 Supersonic
+24 Horn Attack
+30 Fury Attack
+37 Waterfall
+45 Horn Drill
+54 Agility
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+7 Horn Drill
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

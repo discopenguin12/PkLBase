@@ -1,0 +1,62 @@
+Name:
+Electrode
+#
+Dex:
+101
+#
+Description:
+Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.
+#
+Type:
+Electric
+#
+HP:
+60
+#
+Attack:
+50
+#
+Defense:
+70
+#
+SPEC-Attack:
+80
+#
+SPEC-Defense:
+80
+#
+Speed:
+150
+#
+Moves:
+1 Screech
+1 Sonic Boom
+1 Tackle
+17 Sonic Boom
+22 Self-Destruct
+29 Light Screen
+40 Swift
+50 Explosion
+#
+HMS:
+5 Flash
+#
+TMS:
+6 Toxic
+9 Take Down
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+36 Self-Destruct
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+47 Explosion
+50 Substitute
+#

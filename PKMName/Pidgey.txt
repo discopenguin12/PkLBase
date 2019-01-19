@@ -1,0 +1,58 @@
+Name:
+Pidgey
+#
+Dex:
+16
+#
+Description:
+Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.
+#
+Type:
+Normal-Flying
+#
+HP:
+40
+#
+Attack:
+45
+#
+Defense:
+40
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+35
+#
+Speed:
+56
+#
+Moves:
+1 Gust
+5 Sand Attack
+12 Quick Attack
+19 Whirlwind
+28 Wing Attack
+36 Agility
+44 Mirror Move
+#
+HMS:
+2 Fly
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+43 Sky Attack
+44 Rest
+50 Substitute
+#

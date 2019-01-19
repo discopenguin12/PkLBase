@@ -1,0 +1,66 @@
+Name:
+Dratini
+#
+Dex:
+147
+#
+Description:
+The existence of this mythical POKÈMON was only recently confirmed by a fisherman who caught one.
+#
+Type:
+Dragon
+#
+HP:
+41
+#
+Attack:
+64
+#
+Defense:
+45
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+50
+#
+Speed:
+50
+#
+Moves:
+1 Leer
+1 Wrap
+10 Thunder Wave
+20 Agility
+30 Slam
+40 Dragon Rage
+50 Hyper Beam
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+23 Dragon Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+50 Substitute
+#

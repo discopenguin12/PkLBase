@@ -1,0 +1,73 @@
+Name:
+Nidoking
+#
+Dex:
+34
+#
+Description:
+Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.
+#
+Type:
+Poison-Ground
+#
+HP:
+81
+#
+Attack:
+102
+#
+Defense:
+77
+#
+SPEC-Attack:
+85
+#
+SPEC-Defense:
+75
+#
+Speed:
+85
+#
+Moves:
+1 Horn Attack
+1 Poison Sting
+1 Tackle
+1 Thrash
+8 Horn Attack
+12 Double Kick
+23 Trash
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beamm
+14 Blizzard
+15 Hyper Beam
+16 Pay Day
+17 Submission
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Fissure
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

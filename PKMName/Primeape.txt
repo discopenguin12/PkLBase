@@ -1,0 +1,73 @@
+Name:
+Primeape
+#
+Dex:
+57
+#
+Description:
+It stops being angry only when nobody else is around. To view this moment is very difficult.
+#
+Type:
+Fighting
+#
+HP:
+65
+#
+Attack:
+105
+#
+Defense:
+60
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+70
+#
+Speed:
+95
+#
+Moves:
+1 Karate Chop
+1 Low Kick
+1 Scratch
+1 Leer
+9 Low Kick
+15 Karate Chop
+21 Fury Swipes
+27 Focus Energy
+28 Rage
+37 Seismict Toss
+45 Screech
+46 Thrash
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+16 Pay Day
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+39 Swift
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

@@ -1,0 +1,65 @@
+Name:
+Machop
+#
+Dex:
+66
+#
+Description:
+Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.
+#
+Type:
+Fighting
+#
+HP:
+70
+#
+Attack:
+80
+#
+Defense:
+50
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+35
+#
+Speed:
+35
+#
+Moves:
+1 Karate Chop
+20 Low Kick
+25 Leer
+32 Focus Energy
+39 Seismic Toss
+46 Submission
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+38 Fire Blast
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

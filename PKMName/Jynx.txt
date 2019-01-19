@@ -1,0 +1,71 @@
+Name:
+Jynx
+#
+Dex:
+124
+#
+Description:
+Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.
+#
+Type:
+Ice-Psychic
+#
+HP:
+65
+#
+Attack:
+50
+#
+Defense:
+35
+#
+SPEC-Attack:
+115
+#
+SPEC-Defense:
+95
+#
+Speed:
+95
+#
+Moves:
+1 Lovely Kiss
+1 Pound
+18 Lick
+23 Double Slap
+31 Ice Punch
+39 Body Slam
+47 Thrash
+58 Blizzard
+#
+HMS:
+-
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+40 Skull Bash
+44 Rest
+46 Psywave
+50 Substitute
+#

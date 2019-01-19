@@ -1,0 +1,70 @@
+Name:
+Cubone
+#
+Dex:
+104
+#
+Description:
+Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.
+#
+Type:
+Ground
+#
+HP:
+50
+#
+Attack:
+50
+#
+Defense:
+95
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+50
+#
+Speed:
+35
+#
+Moves:
+1 Growl
+10 Bone Club
+13 Tail Whip
+18 Headbutt
+25 Leer
+31 Focus Energy
+38 Thrash
+43 Bonemerang
+46 Rage
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+38 Fire Blast
+40 Skull Bash
+44 Rest
+50 Substitute
+#

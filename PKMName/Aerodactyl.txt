@@ -1,0 +1,60 @@
+Name:
+Aerodactyl
+#
+Dex:
+142
+#
+Description:
+A savage POKÈMON that died out in ancient times. It was resurrected using DNA taken from amber.
+#
+Type:
+Rock-Flying
+#
+HP:
+80
+#
+Attack:
+105
+#
+Defense:
+65
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+75
+#
+Speed:
+130
+#
+Moves:
+1 Agility
+1 Wing Attack
+33 Supersonic
+38 Bite
+45 Take Down
+54 Hyper Beam
+#
+HMS:
+2 Fly
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+23 Dragon Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+43 Sky Attack
+44 Rest
+50 Substitute
+#

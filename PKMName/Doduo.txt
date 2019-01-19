@@ -1,0 +1,58 @@
+Name:
+Doduo
+#
+Dex:
+84
+#
+Description:
+Its short wings make flying difficult. Instead, this POKÈMON runs at high speed on developed legs.
+#
+Type:
+Normal-Flying
+#
+HP:
+35
+#
+Attack:
+85
+#
+Defense:
+45
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+35
+#
+Speed:
+75
+#
+Moves:
+1 Peck
+20 Growl
+24 Fury Attack
+30 Drill Peck
+36 Rage
+40 Tri Attack
+44 Agility
+#
+HMS:
+2 Fly
+#
+TMS:
+4 Whirlwind
+6 Toxic
+8 Body Slam
+10 Double-Edge
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+43 Sky Attack
+44 Rest
+49 Tri Attack
+50 Substitute
+#

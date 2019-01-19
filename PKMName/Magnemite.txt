@@ -1,0 +1,59 @@
+Name:
+Magnemite
+#
+Dex:
+81
+#
+Description:
+It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.
+#
+Type:
+Electric-Steel
+#
+HP:
+25
+#
+Attack:
+35
+#
+Defense:
+70
+#
+SPEC-Attack:
+95
+#
+SPEC-Defense:
+55
+#
+Speed:
+45
+#
+Moves:
+1 Tackle
+21 Sonic Boom
+25 Thunder Shock
+29 Supersonic
+35 Thunder Wave
+41 Swift
+47 Screech
+#
+HMS:
+5 Flash
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+24 Thunderbolt
+25 Thunder
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+44 Rest
+45 Thunder Wave
+50 Substitute
+#

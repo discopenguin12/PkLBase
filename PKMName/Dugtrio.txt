@@ -1,0 +1,60 @@
+Name:
+Dugtrio
+#
+Dex:
+51
+#
+Description:
+A team of triplets that can burrow over 60 MPH. Due to this, some people think it's an earthquake.
+#
+Type:
+Ground
+#
+HP:
+35
+#
+Attack:
+100
+#
+Defense:
+50
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+70
+#
+Speed:
+120
+#
+Moves:
+1 Dig
+1 Growl
+1 Scratch
+15 Growl
+19 Dig
+24 Sand Attack
+35 Slash
+47 Earthquake
+#
+HMS:
+1 Cut
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+44 Rest
+48 Rock Slide
+50 Substitute
+#

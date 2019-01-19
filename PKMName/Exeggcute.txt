@@ -1,0 +1,61 @@
+Name:
+Exeggcute
+#
+Dex:
+102
+#
+Description:
+The heads attract each other and spin around. There must be 6 heads for it to maintain balance.
+#
+Type:
+Grass-Psychic
+#
+HP:
+60
+#
+Attack:
+40
+#
+Defense:
+80
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+45
+#
+Speed:
+40
+#
+Moves:
+1 Barrage
+1 Hypnosis
+25 Reflect
+28 Leech Seed
+32 Stun Spore
+37 Poison Powder
+42 Solar Beam
+48 Sleep Powder
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+36 Self-Destruct
+37 Egg Bomb
+44 Rest
+46 Psywave
+47 Explosion
+50 Substitute
+#

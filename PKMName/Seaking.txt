@@ -1,0 +1,63 @@
+Name:
+Seaking
+#
+Dex:
+119
+#
+Description:
+It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.
+#
+Type:
+Water
+#
+HP:
+80
+#
+Attack:
+92
+#
+Defense:
+65
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+80
+#
+Speed:
+80
+#
+Moves:
+1 Peck
+1 Supersonic
+1 Tail Whip
+19 Supersonic
+24 Horn Attack
+30 Fury Attack
+39 Waterfall
+48 Horn Drill
+54 Agility
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+7 Horn Drill
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

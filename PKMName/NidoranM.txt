@@ -1,0 +1,61 @@
+Name:
+NidoranM
+#
+Dex:
+32
+#
+Description:
+Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.
+#
+Type:
+Poison
+#
+HP:
+46
+#
+Attack:
+57
+#
+Defense:
+40
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+40
+#
+Speed:
+50
+#
+Moves:
+1 Leer
+1 Tackle
+8 Horn Attack
+12 Double Kick
+17 Poison Sting
+23 Focus Energy
+30 Furry Attack
+38 Horn Drill
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+14 Blizzard
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

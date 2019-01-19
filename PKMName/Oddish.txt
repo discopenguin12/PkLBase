@@ -1,0 +1,57 @@
+Name:
+Oddish
+#
+Dex:
+43
+#
+Description:
+It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.
+#
+Type:
+Grass-Poison
+#
+HP:
+45
+#
+Attack:
+50
+#
+Defense:
+55
+#
+SPEC-Attack:
+75
+#
+SPEC-Defense:
+65
+#
+Speed:
+30
+#
+Moves:
+1 Absorb
+15 Poison Powder
+17 Stun Spore
+19 Sleep Powder
+24 Acid
+33 Petal Dance
+46 Solar Beam
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

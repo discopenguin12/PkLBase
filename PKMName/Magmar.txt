@@ -1,0 +1,65 @@
+Name:
+Magmar
+#
+Dex:
+126
+#
+Description:
+Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.
+#
+Type:
+Fire
+#
+HP:
+65
+#
+Attack:
+95
+#
+Defense:
+57
+#
+SPEC-Attack:
+100
+#
+SPEC-Defense:
+85
+#
+Speed:
+93
+#
+Moves:
+1 Ember
+36 Leer
+39 Confuse Ray
+43 Fire Punch
+52 Smog
+55 Flamethrower
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+38 Fire Blast
+40 Skull Bash
+44 Rest
+46 Psywave
+50 Substitute
+#

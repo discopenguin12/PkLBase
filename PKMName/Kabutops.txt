@@ -1,0 +1,67 @@
+Name:
+Kabutops
+#
+Dex:
+141
+#
+Description:
+A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.
+#
+Type:
+Rock-Water
+#
+HP:
+60
+#
+Attack:
+115
+#
+Defense:
+105
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+70
+#
+Speed:
+80
+#
+Moves:
+1 Absorb
+1 Harden
+1 Scratch
+34 Absorb
+39 Slash
+46 Leer
+53 Hydro Pump
+#
+HMS:
+1 Cut
+3 Surf
+#
+TMS:
+2 Razor Wind
+3 Swords Dance
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Submission
+19 Seismic Toss
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

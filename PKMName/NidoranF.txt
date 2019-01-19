@@ -1,0 +1,59 @@
+Name:
+NidoranF
+#
+Dex:
+29
+#
+Description:
+A mild-mannered POKÈMON that does not like to fight. Beware, its small horns secrete venom.
+#
+Type:
+Poison
+#
+HP:
+55
+#
+Attack:
+47
+#
+Defense:
+52
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+40
+#
+Speed:
+41
+#
+Moves:
+1 Growl
+1 Tackle
+8 Scratch
+12 Double Kick
+17 Poison Sting
+23 Tail Whip
+30 Bite
+38 Fury Swipes
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+14 Blizzard
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

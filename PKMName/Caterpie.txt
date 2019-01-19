@@ -1,0 +1,40 @@
+Name:
+Caterpie
+#
+Dex:
+10
+#
+Description:
+If you touch the feeler on top of its head, it will release a horrible stink to protect itself.
+#
+Type:
+Bug
+#
+HP:
+45
+#
+Attack:
+30
+#
+Defense:
+35
+#
+SPEC-Attack:
+20
+#
+SPEC-Defense:
+20
+#
+Speed:
+45
+#
+Moves:
+1 String Shot
+1 Tackle
+#
+HMS:
+-
+#
+TMS:
+-
+#

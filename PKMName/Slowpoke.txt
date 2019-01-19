@@ -1,0 +1,70 @@
+Name:
+Slowpoke
+#
+Dex:
+79
+#
+Description:
+Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.
+#
+Type:
+Water-Psychic
+#
+HP:
+90
+#
+Attack:
+65
+#
+Defense:
+65
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+40
+#
+Speed:
+15
+#
+Moves:
+1 Confusion
+18 Disable
+22 Headbutt
+27 Growl
+33 Water Gun
+40 Amnesia
+48 Psychic
+#
+HMS:
+3 Surf
+4 Strength
+5 Flash
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+16 Pay Day
+26 Earthquake
+27 Fissure
+28 Dig
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

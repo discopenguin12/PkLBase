@@ -1,0 +1,79 @@
+Name:
+Snorlax
+#
+Dex:
+143
+#
+Description:
+Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.
+#
+Type:
+Normal
+#
+HP:
+160
+#
+Attack:
+110
+#
+Defense:
+65
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+110
+#
+Speed:
+30
+#
+Moves:
+1 Amnesia
+1 Headbutt
+1 Rest
+35 Body Slam
+41 Harden
+48 Double-Edge
+56 Hyper Beam
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Pay Day
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Fissure
+29 Psychic
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+35 Metronome
+36 Self-Destruct
+38 Fire Blast
+40 Skull Bash
+44 Rest
+46 Psywave
+48 Rock Slide
+50 Substitute
+#

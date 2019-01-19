@@ -1,0 +1,56 @@
+Name:
+Moltres
+#
+Dex:
+146
+#
+Description:
+A legendary bird POKÈMON. As it flaps its flaming wings, even the night sky will turn red.
+#
+Type:
+Fire-Flying
+#
+HP:
+90
+#
+Attack:
+100
+#
+Defense:
+90
+#
+SPEC-Attack:
+125
+#
+SPEC-Defense:
+85
+#
+Speed:
+90
+#
+1 Fire Spin
+1 Peck
+51 Leer
+55 Agility
+60 Sky Attack
+#
+HMS:
+2 Fly
+#
+TMS:
+2 Razor Wind
+4 Whirlwind
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+43 Sky Attack
+44 Rest
+50 Substitute
+#

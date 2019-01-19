@@ -1,0 +1,61 @@
+Name:
+Rattata
+#
+Dex:
+19
+#
+Description:
+Will chew on anything with its fangs. If you see one, it is certain that 40 more live in the area.
+#
+Type:
+Normal
+#
+HP:
+30
+#
+Attack:
+56
+#
+Defense:
+35
+#
+SPEC-Attack:
+25
+#
+SPEC-Defense:
+35
+#
+Speed:
+72
+#
+Moves:
+1 Tackle
+1 Tail Whip
+7 Quick Attack
+14 Hyper Fang
+23 Focus Energy
+34 Super Fang
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+14 Blizzard
+20 Rage
+24 Thunderbolt
+25 Thunder
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

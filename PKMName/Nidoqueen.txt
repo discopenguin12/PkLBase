@@ -1,0 +1,69 @@
+Name:
+Nidoqueen
+#
+Dex:
+31
+#
+Description:
+Tough scales cover the sturdy body of this POKÈMON. It appears that the scales grow in cycles.
+#
+Type:
+Poison-Ground
+#
+HP:
+90
+#
+Attack:
+92
+#
+Defense:
+87
+#
+SPEC-Attack:
+75
+#
+SPEC-Defense:
+85
+#
+Speed:
+76
+#
+Moves:
+1 Body Slam
+1 Growl
+1 Scratch
+1 Tackle
+8 Scratch
+12 Double Kick
+23 Body Slam
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Fissure
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

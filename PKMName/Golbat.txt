@@ -1,0 +1,58 @@
+Name:
+Golbat
+#
+Dex:
+42
+#
+Description:
+It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.
+#
+Type:
+Poison-Flying
+#
+HP:
+75
+#
+Attack:
+80
+#
+Defense:
+70
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+75
+#
+Speed:
+90
+#
+Moves:
+1 Bite
+1 Leech Life
+10 Supersonic
+15 Bite
+21 Confuse Ray
+32 Wing Attack
+43 Haze
+#
+HMS:
+-
+#
+TMS:
+2 Razor Wind
+4 WhirlWind
+6 Toxic
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+44 Rest
+50 Substitute
+#

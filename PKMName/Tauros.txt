@@ -1,0 +1,63 @@
+Name:
+Tauros
+#
+Dex:
+128
+#
+Description:
+A rowdy POKÈMON with a lot of stamina. Once running, it won't stop until it hits something.
+#
+Type:
+Normal
+#
+HP:
+75
+#
+Attack:
+100
+#
+Defense:
+95
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+70
+#
+Speed:
+110
+#
+Moves:
+1 Tackle
+21 Stomp
+28 Tail Whip
+35 Leer
+44 Rage
+51 Take Down
+#
+HMS:
+4 Strength
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Fissure
+31 Mimic
+32 Double Team
+34 Bide
+38 Fire Blast
+40 Skull Bash
+44 Rest
+50 Substitute
+#

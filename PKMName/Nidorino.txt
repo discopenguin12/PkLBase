@@ -1,0 +1,65 @@
+Name:
+Nidorino
+#
+Dex:
+33
+#
+Description:
+Its horns contain venom. If they are stabbed into an enemy, the impact makes the poison leak out.
+#
+Type:
+Poison
+#
+HP:
+61
+#
+Attack:
+72
+#
+Defense:
+57
+#
+SPEC-Attack:
+55
+#
+SPEC-Defense:
+55
+#
+Speed:
+65
+#
+Moves:
+1 Horn Attack
+1 Leer
+1 Tackle
+8 Horn Attack
+12 Double Kick
+19 Poison Sting
+27 Focus Energy
+36 Furry Attack
+46 Horn Drill
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beamm
+14 Blizzard
+20 Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

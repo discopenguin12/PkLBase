@@ -1,0 +1,61 @@
+Name:
+Venusaur
+#
+Dex:
+3
+#
+Description:
+#
+Type:
+Grass-Poison
+#
+HP:
+80
+#
+Attack:
+82
+#
+Defense:
+83
+#
+SPEC-Attack:
+100
+#
+SPEC-Defense:
+100
+#
+Speed:
+80
+#
+Moves:
+1 Growl
+1 Tackle
+1 Vine Whip
+1 Leech Seed
+7 Leech Seed
+13 Vine Whip
+22 Poison Powder
+30 Razor Leaf
+43 Growth
+55 Sleep Powder
+65 Solar Beam
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#
+HMS:
+1 Cut
+#

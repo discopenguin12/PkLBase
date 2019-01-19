@@ -1,0 +1,75 @@
+Name:
+Rhydon
+#
+Dex:
+112
+#
+Description:
+Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava.
+#
+Type:
+Ground-Rock
+#
+HP:
+105
+#
+Attack:
+130
+#
+Defense:
+120
+#
+SPEC-Attack:
+45
+#
+SPEC-Defense:
+45
+#
+Speed:
+40
+#
+Moves:
+1 Horn Attack
+30 Stomp
+35 Tail Whip
+40 Fury Attack
+48 Horn Drill
+55 Leer
+64 Take Down
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Pay Day
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double
+34 Bide
+38 Fire Blast
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

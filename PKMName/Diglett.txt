@@ -1,0 +1,57 @@
+Name:
+Diglett
+#
+Dex:
+50
+#
+Description:
+It prefers dark places. It spends most of its time underground, though it may pop up in caves.
+#
+Type:
+Ground
+#
+HP:
+10
+#
+Attack:
+55
+#
+Defense:
+25
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+45
+#
+Speed:
+95
+#
+Moves:
+1 Scratch
+15 Growl
+19 Dig
+24 Sand Attack
+31 Slash
+40 Earthquake
+#
+HMS:
+1 Cut
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+44 Rest
+48 Rock Slide
+50 Substitute
+#

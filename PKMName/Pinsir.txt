@@ -1,0 +1,60 @@
+Name:
+Pinsir
+#
+Dex:
+127
+#
+Description:
+Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.
+#
+Type:
+Bug
+#
+HP:
+65
+#
+Attack:
+125
+#
+Defense:
+100
+#
+SPEC-Attack:
+55
+#
+SPEC-Defense:
+70
+#
+Speed:
+85
+#
+Moves:
+1 Vice Grip
+21 Bind
+25 Seismic Toss
+30 Guillotine
+36 Focus Energy
+42 Harden
+49 Slash
+54 Swords Dance
+#
+HMS:
+1 Cut
+4 Strength
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+19 Seismic Toss
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+44 Rest
+50 Substitute
+#

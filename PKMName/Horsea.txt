@@ -1,0 +1,57 @@
+Name:
+Horsea
+#
+Dex:
+116
+#
+Description:
+If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.
+#
+Type:
+Water
+#
+HP:
+30
+#
+Attack:
+40
+#
+Defense:
+70
+#
+SPEC-Attack:
+70
+#
+SPEC-Defense:
+25
+#
+Speed:
+60
+#
+Moves:
+1 Bubble
+19 Smokescreen
+24 Leer
+30 Water Gun
+37 Agility
+45 Hydro Pump
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+44 Rest
+50 Substitute
+#

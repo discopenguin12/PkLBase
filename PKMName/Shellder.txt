@@ -1,0 +1,63 @@
+Name:
+Shellder
+#
+Dex:
+90
+#
+Description:
+The shell can withstand any attack. However, when it is open, the tender body is exposed.
+#
+Type:
+Water
+#
+HP:
+30
+#
+Attack:
+65
+#
+Defense:
+100
+#
+SPEC-Attack:
+45
+#
+SPEC-Defense:
+25
+#
+Speed:
+40
+#
+Moves:
+1 Tackle
+1 Withdraw
+18 Supersonic
+23 Clamp
+30 Aurora Beam
+39 Leer
+50 Ice Beam
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+36 Self-Destruct
+39 Swift
+44 Rest
+47 Explosion
+49 Tri Attack
+50 Substitute
+#

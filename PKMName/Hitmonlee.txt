@@ -1,0 +1,61 @@
+Name:
+Hitmonlee
+#
+Dex:
+106
+#
+Description:
+When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.
+#
+Type:
+Fighting
+#
+HP:
+50
+#
+Attack:
+120
+#
+Defense:
+53
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+110
+#
+Speed:
+87
+#
+Moves:
+1 Double Kick
+1 Meditate
+33 Rolling Kick
+38 Jump Kick
+43 Focus Energy
+48 High Jump Kick
+53 Mega Kick
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+39 Swift
+40 Skull Bash
+50 Substitute
+#

@@ -1,0 +1,66 @@
+Name:
+Porygon
+#
+Dex:
+137
+#
+Description:
+The only POKÈMON people anticipate can fly into space. None has managed the feat yet, however.
+#
+Type:
+Normal
+#
+HP:
+65
+#
+Attack:
+60
+#
+Defense:
+70
+#
+SPEC-Attack:
+85
+#
+SPEC-Defense:
+75
+#
+Speed:
+40
+#
+Moves:
+1 Conversion
+1 Sharpen
+1 Tackle
+23 Psybeam
+28 Recover
+35 Agility
+42 Tri Attack
+#
+HMS:
+5 Flash
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

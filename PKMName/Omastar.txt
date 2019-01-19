@@ -1,0 +1,62 @@
+Name:
+Omastar
+#
+Dex:
+139
+#
+Description:
+Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct.
+#
+Type:
+Rock-Water
+#
+HP:
+70
+#
+Attack:
+60
+#
+Defense:
+125
+#
+SPEC-Attack:
+115
+#
+SPEC-Defense:
+70
+#
+Speed:
+55
+#
+Moves:
+1 Horn Attack
+1 Water Gun
+1 Withdraw
+34 Horn Attack
+39 Leer
+44 Spike Cannon
+49 Hydro Pump
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

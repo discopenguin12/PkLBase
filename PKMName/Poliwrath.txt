@@ -1,0 +1,67 @@
+Name:
+Poliwrath
+#
+Dex:
+62
+#
+Description:
+Swims powerfully using all the muscles in its body. It can even overtake champion swimmers.
+#
+Type:
+Water-Fighting
+#
+HP:
+90
+#
+Attack:
+95
+#
+Defense:
+95
+#
+SPEC-Attack:
+70
+#
+SPEC-Defense:
+90
+#
+Speed:
+70
+#
+Moves:
+1 Body Slam
+1 Double Slap
+1 Hypnosis
+1 Water Gun
+16 Hypnosis
+19 Water Gun
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+17 Submission
+20 Rage
+26 Earthquake
+27 Fissure
+29 Psychic
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+40 Skull Bash
+44 Rest
+46 Psywave
+50 Substitute
+#

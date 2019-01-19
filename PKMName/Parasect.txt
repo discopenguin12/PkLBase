@@ -1,0 +1,62 @@
+Name:
+Parasect
+#
+Dex:
+47
+#
+Description:
+The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.
+#
+Type:
+Bug-Grass
+#
+HP:
+60
+#
+Attack:
+95
+#
+Defense:
+80
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+80
+#
+Speed:
+30
+#
+Moves:
+1 Leech life
+1 Scratch
+1 Stun Spore
+13 Stun Spore
+20 Leech Life
+30 Spore
+39 Slash
+48 Growth
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+22 Solar Beam
+28 Dig
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

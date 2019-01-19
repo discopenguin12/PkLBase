@@ -1,0 +1,59 @@
+Name:
+Voltorb
+#
+Dex:
+100
+#
+Description:
+It is said to camouflage itself as a POKé BALL. It will self-destruct with very little stimulus.
+#
+Type:
+Electric
+#
+HP:
+40
+#
+Attack:
+30
+#
+Defense:
+50
+#
+SPEC-Attack:
+55
+#
+SPEC-Defense:
+55
+#
+Speed:
+100
+#
+Moves:
+1 Screech
+1 Tackle
+17 Sonic Boom
+22 Self-Destruct
+29 Light Screen
+36 Swift
+43 Explosion
+#
+HMS:
+5 Flash
+#
+TMS:
+6 Toxic
+9 Take Down
+20 Rage
+24 Thunderbolt
+25 Thunder
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+36 Self-Destruct
+39 Swift
+44 Rest
+45 Thunder Wave
+47 Explosion
+50 Substitute
+#

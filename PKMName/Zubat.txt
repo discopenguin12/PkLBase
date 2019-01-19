@@ -1,0 +1,56 @@
+Name:
+Zubat
+#
+Dex:
+41
+#
+Description:
+Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.
+#
+Type:
+Poison-Flying
+#
+HP:
+40
+#
+Attack:
+45
+#
+Defense:
+35
+#
+SPEC-Attack:
+30
+#
+SPEC-Defense:
+40
+#
+Speed:
+55
+#
+Moves:
+1 Leech Life
+10 Supersonic
+15 Bite
+21 Confuse Ray
+28 Wing Attack
+36 Haze
+#
+HMS:
+-
+#
+TMS:
+2 Razor Wind
+4 WhirlWind
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+44 Rest
+50 Substitute
+#

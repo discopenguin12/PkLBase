@@ -1,0 +1,59 @@
+Name:
+Vulpix
+#
+Dex:
+37
+#
+Description:
+Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.
+#
+Type:
+Fire
+#
+HP:
+38
+#
+Attack:
+41
+#
+Defense:
+40
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+65
+#
+Speed:
+65
+#
+Moves:
+1 Ember
+1 Tail Whip
+16 Quick Attack
+21 Roar
+28 Confuse Ray
+35 Flamethrower
+42 Fire Spin
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+28 Dig
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

@@ -1,0 +1,69 @@
+Name:
+Staryu
+#
+Dex:
+120
+#
+Description:
+As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.
+#
+Type:
+Water
+#
+HP:
+30
+#
+Attack:
+45
+#
+Defense:
+55
+#
+SPEC-Attack:
+70
+#
+SPEC-Defense:
+55
+#
+Speed:
+85
+#
+Moves:
+1 Tackle
+17 Water Gun
+22 Harden
+27 Recover
+32 Swift
+37 Minimize
+42 Light Screen
+47 Hydro Pump
+#
+HMS:
+3 Surf
+5 Flash
+#
+TMS:
+6 Toxic
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+20 Rage
+24 Thunderbolt
+25 Thunder
+29 Psychic
+30 Teleport
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+46 Psywave
+49 Tri Attack
+50 Substitute
+#

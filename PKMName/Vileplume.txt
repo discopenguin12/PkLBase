@@ -1,0 +1,59 @@
+Name:
+Vileplume
+#
+Dex:
+45
+#
+Description:
+Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.
+#
+Type:
+Grass-Poison
+#
+HP:
+75
+#
+Attack:
+80
+#
+Defense:
+85
+#
+SPEC-Attack:
+110
+#
+SPEC-Defense:
+90
+#
+Speed:
+50
+#
+Moves:
+1 Acid
+1 Petal Dance
+1 Sleep Powder
+1 Stun Spore
+15 Poison Powder
+17 Stun Spore
+19 Sleep Powder
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

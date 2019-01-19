@@ -1,0 +1,72 @@
+Name:
+Lickitung
+#
+Dex:
+108
+#
+Description:
+Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.
+#
+Type:
+Normal
+#
+HP:
+90
+#
+Attack:
+55
+#
+Defense:
+75
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+75
+#
+Speed:
+30
+#
+Moves:
+1 Supersonic
+1 Wrap
+7 Stomp
+15 Disable
+23 Defense Curl
+31 Slam
+39 Screech
+#
+HMS:
+1 Cut
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+3 Swords Dance
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Fissure
+31 Mimic
+32 Double Team
+34 Bide
+38 Fire Blast
+44 Rest
+50 Substitute
+#

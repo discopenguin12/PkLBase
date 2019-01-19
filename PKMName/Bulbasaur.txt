@@ -1,0 +1,60 @@
+Name:
+Bulbasaur
+#
+Dex:
+1
+#
+Description:
+It can go for days without eating a single morsel. In the bulb on its back, it stores energy.
+#
+Type:
+Grass-Poison
+#
+HP:
+45
+#
+Attack:
+49
+#
+Defense:
+49
+#
+SPEC-Attack:
+65
+#
+SPEC-Defense:
+65
+#
+Speed:
+45
+#
+Moves:
+1 Growl
+1 Tackle
+7 Leech Seed
+13 Vine Whip
+20 Poison Powder
+27 Razor Leaf
+34 Growth
+41 Sleep Powder
+48 Solar Beam
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

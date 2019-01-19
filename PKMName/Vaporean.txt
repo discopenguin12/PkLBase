@@ -1,0 +1,68 @@
+Name:
+Vaporean
+#
+Dex:
+134
+#
+Description:
+Its cell structure is similar to water molecules. It will melt away and become invisible in water.
+#
+Type:
+Water
+#
+HP:
+130
+#
+Attack:
+65
+#
+Defense:
+60
+#
+SPEC-Attack:
+110
+#
+SPEC-Defense:
+95
+#
+Speed:
+65
+#
+Moves:
+1 Tackle
+1 Tail Whip
+1 Water Gun
+1 Quick Attack
+8 Sand Attack
+16 Water Gun
+23 Quick Attack
+30 Bite
+36 Aurora Beam
+42 Haze
+42 Mist
+47 Acid Armor
+52 Hydro Pump
+#
+HMS:
+3 Surf
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

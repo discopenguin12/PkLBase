@@ -1,0 +1,71 @@
+Name:
+Dragonite
+#
+Dex:
+149
+#
+Description:
+It is said that this POKÈMON lives somewhere in the sea and that it flies. However, it is only a rumor.
+#
+Type:
+Dragon-Flying
+#
+HP:
+91
+#
+Attack:
+134
+#
+Defense:
+95
+#
+SPEC-Attack:
+100
+#
+SPEC-Defense:
+100
+#
+Speed:
+80
+#
+Moves:
+1 Leer
+1 Thunder Wave
+1 Wrap
+10 Thunder Wave
+20 Agility
+35 Slam
+45 Dragon Rage
+60 Hyper Beam
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+2 Razor Winds
+6 Toxic
+7 Horn Drill
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+23 Dragon Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+45 Thunder Wave
+50 Substitute
+#

@@ -1,0 +1,63 @@
+Name:
+Kingler
+#
+Dex:
+99
+#
+Description:
+One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy.
+#
+Type:
+Water
+#
+HP:
+55
+#
+Attack:
+130
+#
+Defense:
+115
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+50
+#
+Speed:
+75
+#
+Moves:
+1 Bubble
+1 Leer
+1 Vice Grip
+20 Vice Grip
+25 Guillotine
+34 Stomp
+42 Crabhammer
+49 Harden
+#
+HMS:
+1 Cut
+3 Surf
+4 Strength
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+44 Rest
+50 Substitute
+#

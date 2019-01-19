@@ -1,0 +1,63 @@
+Name:
+Raticate
+#
+Dex:
+20
+#
+Description:
+Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.
+#
+Type:
+Normal
+#
+HP:
+55
+#
+Attack:
+81
+#
+Defense:
+60
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+70
+#
+Speed:
+97
+#
+Moves:
+1 Quick Attack
+1 Tackle
+1 Tail Whip
+7 Quick Attack
+14 Hyper Fang
+27 Focus Energy
+41 Super Fang
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+14 Blizzard
+15 Hyper Beam
+20 Rage
+24 Thunderbolt
+25 Thunder
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

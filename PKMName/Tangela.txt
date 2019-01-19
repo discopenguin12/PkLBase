@@ -1,0 +1,61 @@
+Name:
+Tangela
+#
+Dex:
+114
+#
+Description:
+Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.
+#
+Type:
+Grass
+#
+HP:
+65
+#
+Attack:
+55
+#
+Defense:
+115
+#
+SPEC-Attack:
+100
+#
+SPEC-Defense:
+40
+#
+Speed:
+60
+#
+Moves:
+1 Constrict
+24 Bind
+27 Absorb
+29 Vine Whip
+32 Poison Powder
+36 Stun Spore
+39 Sleep Powder
+45 Slam
+48 Growth
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

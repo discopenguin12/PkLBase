@@ -1,0 +1,67 @@
+Name:
+Machoke
+#
+Dex:
+67
+#
+Description:
+The belt around its waist holds back its energy. Without it, this POKÈMON would be unstoppable.
+#
+Type:
+Fighting
+#
+HP:
+80
+#
+Attack:
+100
+#
+Defense:
+70
+#
+SPEC-Attack:
+50
+#
+SPEC-Defense:
+60
+#
+Speed:
+45
+#
+Moves:
+1 Karate Chop
+1 Leer
+1 Low Kick
+20 Low Kick
+25 Leer
+36 Focus Energy
+44 Seismic Toss
+52 Submission
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+26 Earthquake
+27 Fissure
+28 Dig
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+38 Fire Blast
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

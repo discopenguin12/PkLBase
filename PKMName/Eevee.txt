@@ -1,0 +1,58 @@
+Name:
+Eevee
+#
+Dex:
+133
+#
+Description:
+Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.
+#
+Type:
+Normal
+#
+HP:
+55
+#
+Attack:
+55
+#
+Defense:
+50
+#
+SPEC-Attack:
+45
+#
+SPEC-Defense:
+65
+#
+Speed:
+55
+#
+Moves:
+1 Tackle
+1 Tail Whip
+8 Sand Attack
+16 Growl
+23 Quick Attack
+30 Bite
+36 Focus Energy
+42 Take Down
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

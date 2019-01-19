@@ -1,0 +1,59 @@
+Name:
+Bellsprout
+#
+Dex:
+69
+#
+Description:
+Prefers hot and humid places. It ensnares tiny insects with its vines and devours them.
+#
+Type:
+Grass-Poison
+#
+HP:
+50
+#
+Attack:
+75
+#
+Defense:
+35
+#
+SPEC-Attack:
+70
+#
+SPEC-Defense:
+30
+#
+Speed:
+40
+#
+Moves:
+1 Growth
+1 Vine Whip
+13 Wrap
+15 Poison Powder
+18 Sleep Powder
+21 Stun Spore
+26 Acid
+33 Razor Leaf
+42 Slam
+#
+HMS:
+1 Cut
+#
+TMS:
+3 Swords Dance
+6 Toxic
+9 Take Down
+10 Double-Edge
+20 Rage
+21 Mega Drain
+22 Solar Beam
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+44 Rest
+50 Substitute
+#

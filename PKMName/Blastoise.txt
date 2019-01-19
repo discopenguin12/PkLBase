@@ -1,0 +1,71 @@
+Name:
+Blastoise
+#
+Dex:
+9
+#
+Description:
+Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.
+#
+Type:
+Water
+#
+HP:
+79
+#
+Attack:
+83
+#
+Defense:
+100
+#
+SPEC-Attack:
+85
+#
+SPEC-Defense:
+105
+#
+Speed:
+78
+#
+Moves:
+1 Tackle
+1 Tail Whip
+1 Bubble
+1 Water Gun
+8 Bubble
+15 Water Gun
+24 Bite
+31 Withdraw
+42 Skull Bash
+52 Hydro Pump
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+26 Earthquake
+27 Fissure
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+40 Skull Bash
+44 Rest
+50 Substitute
+#

@@ -1,0 +1,66 @@
+Name:
+Gengar
+#
+Dex:
+94
+#
+Description:
+A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you.
+#
+Type:
+Ghost-Poison
+#
+HP:
+60
+#
+Attack:
+65
+#
+Defense:
+60
+#
+SPEC-Attack:
+130
+#
+SPEC-Defense:
+75
+#
+Speed:
+110
+#
+Moves:
+1 Confuse
+1 Lick
+1 Night Shade
+29 Hypnosis
+38 Dream Eater
+#
+HMS:
+-
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+21 Mega Drain
+24 Thunderbolt
+25 Thunder
+29 Psychic
+31 Mimic
+32 Double Team
+34 Bide
+36 Self-Destruct
+42 Dream Eater
+44 Rest
+46 Psywave
+47 Explosion
+50 Substitute
+#

@@ -1,0 +1,40 @@
+Name:
+Weedle
+#
+Dex:
+13
+#
+Description:
+Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
+#
+Type:
+Bug-Poison
+#
+HP:
+40
+#
+Attack:
+35
+#
+Defense:
+30
+#
+SPEC-Attack:
+20
+#
+SPEC-Defense:
+20
+#
+Speed:
+50
+#
+Moves:
+1 Poison String
+1 String Shot
+#
+HMS:
+-
+#
+TMS:
+-
+#

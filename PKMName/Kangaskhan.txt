@@ -1,0 +1,72 @@
+Name:
+Kangaskhan
+#
+Dex:
+115
+#
+Description:
+Raises its young in its belly pouch. Won't run from any fight to keep its young protected.
+#
+Type:
+Normal
+#
+HP:
+105
+#
+Attack:
+95
+#
+Defense:
+80
+#
+SPEC-Attack:
+40
+#
+SPEC-Defense:
+80
+#
+Speed:
+90
+#
+Moves:
+1 Comet Punch
+1 Rage
+26 Bite
+31 Tail Whip
+36 Mega Punch
+41 Leer
+46 Dizzy Punch
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+40 Skull Bash
+44 Rest
+48 Rock Slide
+50 Substitute
+#

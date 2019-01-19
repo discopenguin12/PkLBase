@@ -1,0 +1,64 @@
+Name:
+Flareon
+#
+Dex:
+136
+#
+Description:
+It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees.
+#
+Type:
+Fire
+#
+HP:
+65
+#
+Attack:
+130
+#
+Defense:
+60
+#
+SPEC-Attack:
+95
+#
+SPEC-Defense:
+110
+#
+Speed:
+65
+#
+Moves:
+1 Tackle
+1 Tail Whip
+1 Ember
+1 Quick Attack
+8 Sand Attack
+16 Ember
+23 Quick Attack
+30 Bite
+36 Fire Spin
+42 Smog
+47 Leer
+52 Flamethrower
+#
+HMS:
+-
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+15 Hyper Beam
+20 Rage
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#

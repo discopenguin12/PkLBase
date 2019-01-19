@@ -1,0 +1,65 @@
+Name:
+Gyarados
+#
+Dex:
+130
+#
+Description:
+Brutally vicious and enormously destructive. Known for totally destroying cities in ancient times.
+#
+Type:
+Water-Flying
+#
+HP:
+95
+#
+Attack:
+125
+#
+Defense:
+79
+#
+SPEC-Attack:
+60
+#
+SPEC-Defense:
+100
+#
+Speed:
+81
+#
+Moves:
+1 Tackle
+20 Bite
+25 Dragon Rage
+32 Leer
+41 Hydro Pump
+52 Hyper Beam
+#
+HMS:
+3 Surf
+4 Strength
+#
+TMS:
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+11 Bubble Beam
+12 Water Gun
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+20 Rage
+23 Dragon Rage
+24 Thunderbolt
+25 Thunder
+31 Mimic
+32 Double Team
+33 Reflect
+34 Bide
+38 Fire Blast
+40 Skull Bash
+44 Rest
+50 Substitute
+#

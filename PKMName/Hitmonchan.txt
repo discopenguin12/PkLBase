@@ -1,0 +1,62 @@
+Name:
+Hitmonchan
+#
+Dex:
+107
+#
+Description:
+Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.
+#
+Type:
+Fighting
+#
+HP:
+50
+#
+Attack:
+105
+#
+Defense:
+79
+#
+SPEC-Attack:
+35
+#
+SPEC-Defense:
+110
+#
+Speed:
+76
+#
+Moves:
+1 Agility
+1 Comet Punch
+33 Fire Punch
+38 Ice Punch
+43 Thunder Punch
+48 Mega Punch
+53 Counter
+#
+HMS:
+4 Strength
+#
+TMS:
+1 Mega Punch
+5 Mega Kick
+6 Toxic
+8 Body Slam
+9 Take Down
+10 Double-Edge
+17 Submission
+18 Counter
+19 Seismic Toss
+20 Rage
+31 Mimic
+32 Double Team
+34 Bide
+35 Metronome
+39 Swift
+40 Skull Bash
+44 Rest
+50 Substitute
+#
